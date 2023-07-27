@@ -10,7 +10,7 @@ export default function Home() {
         <div>
           <img src={'./IMG/MOkx logo 1.png'}/>
         </div>
-        <div className='fixed bottom-[10%] md:w-[11%] xxsm:w-[48%] text-center flex justify-center items-center'>
+        <div className='fixed bottom-[10%] md:w-[12%] xxsm:w-[46%] text-center flex justify-center items-center'>
           <h1 className='font-semibold text-typo-color'>
             Back to Vedas 🕉️
           </h1>
